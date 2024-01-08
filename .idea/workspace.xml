@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="34cd7de7-90f8-43c5-8dc0-4803b6599702" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cybulde/utils/config_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/cybulde/utils/config_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cybulde/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/cybulde/utils/data_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cybulde/version_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/cybulde/version_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

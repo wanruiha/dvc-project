@@ -1,7 +1,7 @@
+from pathlib import Path
 from subprocess import CalledProcessError
 
-from cybulde.utils.utils import run_shell_command, get_logger
-from pathlib import Path
+from cybulde.utils.utils import get_logger, run_shell_command
 
 DATA_UTILS_LOGGER = get_logger(Path(__file__).name)
 
